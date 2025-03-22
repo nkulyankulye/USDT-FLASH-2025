@@ -1,3 +1,6 @@
+
+![c21a822b-1e63-4c0a-b235-c2308512378c](https://github.com/user-attachments/assets/f801e0d0-7a87-4276-a71d-7eb07e832b80)
+
 ### What is USDT flashing?
 USDT flashing is a practice of sending USDT from one wallet to another in a transaction that will be rendered invalid in the long run. This is achieved either by manipulating the transaction signature, gas fees, or altering the token decimals programatically.
 
